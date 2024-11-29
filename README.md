@@ -5,7 +5,7 @@
 
 ## 1、获取token
 进入https://zero.kaisar.io注册，并且登录。
-在chrome下使用f12 进入开发者->找到``balances?symbol=ticket``
+在chrome下使用f12 进入开发者->控制台
 ```javascript
 // 重写 fetch 方法来捕获请求并打印 Authorization 头
 let originalFetch = window.fetch;
