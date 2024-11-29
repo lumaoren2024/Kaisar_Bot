@@ -2,7 +2,7 @@
     "accounts": [
         {
             "email": "账号1@gmail.com",
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzQ5YTY0ZGRmNDliYzJhM2YyZjhiYTEiLCJpZCI6IjY3NDlhNjRkZGY0OWJjMmEzZjJmOGJhMSIsInJvbGUiOiJ1c2VyIiwiZW1haWwiOiJsaWFvemhpZnVAZ21haWwuY29tIiwic3RhdHVzIjoxLCJpYXQiOjE3MzI4Nzk5ODMsImV4cCI6MTc2NDQzNzU4M30.bkj2WSDV5Xun-JnkSr74sZJX3Cb6igiTC0Y-l4pNLz8",
+            "token": "ey",
             "proxy_enabled": true,
             "proxy_type": "SOCKS5",
             "proxy_address": "127.0.0.1",
@@ -10,7 +10,7 @@
         },
         {
             "email": "账号2@gmail.com",
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzQ5YTY0ZGRmNDliYzJhM2YyZjhiYTEiLCJpZCI6IjY3NDlhNjRkZGY0OWJjMmEzZjJmOGJhMSIsInJvbGUiOiJ1c2VyIiwiZW1haWwiOiJsaWFvemhpZnVAZ21haWwuY29tIiwic3RhdHVzIjoxLCJpYXQiOjE3MzI4Nzk5ODMsImV4cCI6MTc2NDQzNzU4M30.bkj2WSDV5Xun-JnkSr74sZJX3Cb6igiTC0Y-l4pNLz8",
+            "token": "ey",
             "proxy_enabled": false,
             "proxy_type": "HTTP",
             "proxy_address": "192.168.2.7",
@@ -18,7 +18,7 @@
         },
         {
             "email": "账号3@gmail.com",
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzQ5YTY0ZGRmNDliYzJhM2YyZjhiYTEiLCJpZCI6IjY3NDlhNjRkZGY0OWJjMmEzZjJmOGJhMSIsInJvbGUiOiJ1c2VyIiwiZW1haWwiOiJsaWFvemhpZnVAZ21haWwuY29tIiwic3RhdHVzIjoxLCJpYXQiOjE3MzI4Nzk5ODMsImV4cCI6MTc2NDQzNzU4M30.bkj2WSDV5Xun-JnkSr74sZJX3Cb6igiTC0Y-l4pNLz8",
+            "token": "ey",
             "proxy_enabled": true,
             "proxy_type": "SOCKS5",
             "proxy_address": "FqqUB3CM2J9:2YvbWHLByMNZ@101.47.74.24",
@@ -26,7 +26,7 @@
         },
         {
             "email": "账号4@gmail.com",
-            "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NzQ5YTY0ZGRmNDliYzJhM2YyZjhiYTEiLCJpZCI6IjY3NDlhNjRkZGY0OWJjMmEzZjJmOGJhMSIsInJvbGUiOiJ1c2VyIiwiZW1haWwiOiJsaWFvemhpZnVAZ21haWwuY29tIiwic3RhdHVzIjoxLCJpYXQiOjE3MzI4Nzk5ODMsImV4cCI6MTc2NDQzNzU4M30.bkj2WSDV5Xun-JnkSr74sZJX3Cb6igiTC0Y-l4pNLz8",
+            "token": "ey",
             "proxy_enabled": true,
             "proxy_type": "SOCKS5",
             "proxy_address": "xUmm1VuSlQJi:CJrzaAxcqGjz@101.47.140.112",
