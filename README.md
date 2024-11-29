@@ -79,11 +79,17 @@ Authorization: "Bearer ey..."
 
 ## 3、玩法
 我们通过json文件可以看到几个玩法
+
 1、单号多ip
+
 email和token不变。其他的变。
+
 2、单号单ip
+
 就是默认的配置了
+
 3、多号多IP
+
 复制多组{}然后直接按照单号多ip来写！
 
 
