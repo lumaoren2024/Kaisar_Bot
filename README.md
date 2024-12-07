@@ -1,6 +1,6 @@
 # kaisar 自动挂机机器人教程
 我的脚本key申请地址：https://lumao.us.kg/index.php
-
+UUID生成网站：https://www.wetools.com/uuid
 我的邀请连接：https://zero.kaisar.io/register?ref=EfNGVM999
 
 ## 1、获取token
@@ -40,39 +40,17 @@ Authorization: "Bearer ey..."
 ## 2、config.json 讲解
 ```json
 {
-    "accounts": [
-        {
-            "email": "账号邮箱",
-            "token": "第一步获取的token",
-            "proxy_enabled": true, 这里是代理开关，你是要跑本地ip还是代理ip
-            "proxy_type": "SOCKS5", 这里是http或者是socks5，记住全部大写
-            "proxy_address": "127.0.0.1", 代理ip
-            "proxy_port": 7890 端口
-        },
-        {
-            "email": "账号2@gmail.com",
-            "token": "ey.....",
-            "proxy_enabled": false,
-            "proxy_type": "HTTP",
-            "proxy_address": "192.168.2.7",
-            "proxy_port": 7890
-        },
-        {
-            "email": "账号3@gmail.com",
-            "token": "ey.....",
-            "proxy_enabled": true,
-            "proxy_type": "SOCKS5",
-            "proxy_address": "FqqUB3CM2J9:2YvbWHLByMNZ@101.47.74.24",
-            "proxy_port": 20000
-        },
-        {
-            "email": "账号4@gmail.com",
-            "token": "ey.....",
-            "proxy_enabled": true,
-            "proxy_type": "SOCKS5",
-            "proxy_address": "xUmm1VuSlQJi:CJrzaAxcqGjz@101.47.140.112",
-            "proxy_port": 20000
-        }
+    "tokens": [
+        "eyJ...",
+        "eyJ..."
+    ],
+    "ids": [
+        "db9bb1ea-6d3d-4362-bc26-90a5c0084a81",
+        "ee36eea5-21e0-45c7-b220-01574d782525"
+    ],
+    "proxies": [
+        "http://127.0.0.1:7890",
+        "http://127.0.0.1:7890"
     ]
 }
 ```
@@ -82,7 +60,7 @@ Authorization: "Bearer ey..."
 
 1、单号多ip
 
-email和token不变。其他的变。
+token不变。其他的变。
 
 2、单号单ip
 
